@@ -4,3 +4,5 @@ print(num2)
 num1=32
 print(num1)
 print(num1+num2)
+num3=1
+print(num1*num3)
